@@ -20,7 +20,7 @@ This project is a simple PHP application that allows users to register their inf
 ### Step 1: Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/amircliper/mail-sender-php.git
 cd your-repo-name
 ```
 
